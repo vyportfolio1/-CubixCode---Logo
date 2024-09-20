@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    color: #272727;
+}
+
+
+h1{
+    font-size: 25px; 
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #272727;
+}
+
+.bg-blu{
+    background-color: #002E56;
+}
+
+.bg-san{
+    background-color: #DFBFA4;
+}
+
+.bg-san2{
+    background-color: #EDDAC9;
+}
+
+.bg-san3{
+    background-color: #FAF0E5;
+}
